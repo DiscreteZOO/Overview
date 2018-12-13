@@ -7,15 +7,15 @@ New content (collections, object properties) proposals should go into [issue tra
 ### Data
 
 1. [Computations](https://github.com/DiscreteZOO/Computations)
-1. [Data](https://github.com/DiscreteZOO/DiscreteZOO-data)
-1. [Management](https://github.com/DiscreteZOO/DiscreteZOO-management)
-1. [Specifications](https://github.com/DiscreteZOO/DiscreteZOO-spec)
+1. [Data](https://github.com/DiscreteZOO/Data)
+1. [Management](https://github.com/DiscreteZOO/Management)
+1. [Specifications](https://github.com/DiscreteZOO/Specifications)
 
 ### Meta
 
 1. [Documentation](https://github.com/DiscreteZOO/Documentation)
-1. [Presentations](https://github.com/DiscreteZOO/DiscreteZOO-presentations)
-1. [Resources](https://github.com/DiscreteZOO/DiscreteZOO-resources)
+1. [Presentations](https://github.com/DiscreteZOO/Presentations)
+1. [Resources](https://github.com/DiscreteZOO/Resources)
 
 ### Other
 
