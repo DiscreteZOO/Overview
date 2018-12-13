@@ -33,4 +33,5 @@ Located at [discretezoo.xyz](http://discretezoo.xyz).
 
 1. [Backend](https://github.com/DiscreteZOO/Web-Backend)
 1. [Custom Bootstrap](https://github.com/DiscreteZOO/Web-Custom-Bootstrap)
+1. [Deploy](https://github.com/DiscreteZOO/Web-Deploy)
 1. [Frontend](https://github.com/DiscreteZOO/Web-Frontend)
